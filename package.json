@@ -1,0 +1,25 @@
+{
+  "name": "optval",
+  "version": "1.0.0",
+  "description": "Tiny module for setting a default value when a parameter is undefind or null",
+  "main": "optval.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnfriz/node-optval.git"
+  },
+  "keywords": [
+    "typeof",
+    "undefined",
+    "optional",
+    "parameter"
+  ],
+  "author": "John Frizelle <johnfriz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnfriz/node-optval/issues"
+  },
+  "homepage": "https://github.com/johnfriz/node-optval"
+}
