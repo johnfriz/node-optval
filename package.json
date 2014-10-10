@@ -1,6 +1,6 @@
 {
   "name": "optval",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny module for setting a default value when a parameter is undefind or null",
   "main": "optval.js",
   "scripts": {
